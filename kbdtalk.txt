@@ -1,0 +1,17 @@
+- intro
+- history (with my perspective)
+  - old keyboards (mitsumi)
+  -
+  - kinesis
+  - ergodox
+  - qmk/tmk
+  - atreus
+  - commercial kbds
+- (segway - how to type)
+- QMK features: layers, multi-functional keys
+- dissecting the ergodox
+- back to QMK: trackpoint, BT, chords and stenography
+- how to create your own keyboard:
+  - size choice
+  - board vs handwiring
+  -
